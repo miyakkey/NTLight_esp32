@@ -1,7 +1,6 @@
-NTLight with ESP32
-====
+# NTLight with ESP32
 
-##Overview
+## Overview
 NTPを利用してサーバーから時刻を取得し、その時刻に応じた色を表示する照明です。  
 
 ## Description
